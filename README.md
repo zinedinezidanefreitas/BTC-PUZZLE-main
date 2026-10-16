@@ -8,6 +8,7 @@ Exemplos:
   python puzzle.py -k 20000000000000000:3ffffffffffffffff -a 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so -w 8
   python puzzle.py -k 20000000000000000:3ffffffffffffffff -a <addr> -s 2 20 -w 8 -f puzzle66.txt
   python puzzle.py -k ... -a <addr> --backend python
-  git clone https://github.com/zinedinezidanefreitas/BTC-PUZZLE-main.git
-  cd BTC-PUZZLE-main
-  py puzzle.py -k 600000000000000000:7fffffffffffffffff -a 1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU -s 2 20 -w 8 -f puzzle71.txt
+  
+  1. git clone https://github.com/zinedinezidanefreitas/BTC-PUZZLE-main.git
+  2. cd BTC-PUZZLE-main
+  3.py puzzle.py -k 600000000000000000:7fffffffffffffffff -a 1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU -s 2 20 -w 8 -f puzzle71.txt
